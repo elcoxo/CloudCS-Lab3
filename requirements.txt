@@ -12,3 +12,4 @@ pycodestyle==2.10.0
 nltk==3.8.1
 python-keycloak==3.9.0
 python-dotenv==1.0.1
+git-lfs
